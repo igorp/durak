@@ -5,6 +5,8 @@ Durak Card Game
 
 Durak is a popular Russian card game. It is played with a minimum of 2 players, using only cards with values 6 and upwards. This is a Java rendition of the game with you pitted against the computer.
 
+Click [here](http://www.students.tut.fi/~podsechi/durak.zip) to download the executable jar file.
+
 The aim of the game is to get rid of your cards. The game is played by rounds, where either you or the computer hit cards and the opponent tries to beat them. If one cannot beat them, he has to pick the all the cards on the table. After every round you refill your hand to six cards, unless you already have more than that.
 
 Rounds proceed as follows. If for example it is your turn to hit, you press on a card that you wish the computer to beat. One can beat a card by a higher value card of the same suit or alternatively by using any high suit card, which is determined at the beginning of the game and appears on the right side of the window.
