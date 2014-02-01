@@ -1,7 +1,7 @@
 Durak Card Game
 ======
 
-![alt tag](https://github.com/igorp/random/blob/master/src/Durak/screenshot.png?raw=true)
+![alt tag](https://raw2.github.com/igorp/durak/master/screenshot.png?raw=true)
 
 Durak is a popular Russian card game. It is played with a minimum of 2 players, using only cards with values 6 and upwards. This is a Java rendition of the game with you pitted against the computer.
 
